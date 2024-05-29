@@ -11,21 +11,21 @@
         <div class="cards">
             <div class="card">
                 <img src="./images/appache.png" alt="appache">
-                <a target="_blank" href="superset.thelabsv.org">
+                <a target="_blank" href="https://superset.thelabsv.org">
                     <h2>Apache Superset</h2>
                 </a>
             </div>
 
             <div class="card">
                 <img src="./images/directus.avif" alt="Directus">
-                <a target="_blank" href="directus.thelabsv.org/">
+                <a target="_blank" href="https://directus.thelabsv.org/">
                     <h2>Directus</h2>
                 </a>
             </div>
 
             <div class="card">
                 <img src="./images/qgis.webp" alt="gephi-lite">
-                <a target="_blank" href="qgs2.thelabsv.org">
+                <a target="_blank" href="https://qgs2.thelabsv.org">
                     <h2>QGIS</h2>
                 </a>
             </div>
@@ -33,7 +33,7 @@
 
             <div class="card">
                 <img src="./images/gephi.png" alt="gephi-lite">
-                <a target="_blank" href="gephi.thelabsv.org">
+                <a target="_blank" href="https://gephi.thelabsv.org">
                     <h2>Gephi lite</h2>
                 </a>
             </div>
