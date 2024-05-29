@@ -25,7 +25,7 @@
 
             <div class="card">
                 <img src="./images/qgis.webp" alt="gephi-lite">
-                <a target="_blank" href="https://qgs2.thelabsv.org">
+                <a target="_blank" href="https://qwc2.thelabsv.org">
                     <h2>QGIS</h2>
                 </a>
             </div>
