@@ -40,7 +40,7 @@
             
             <div class="card">
                 <img src="./images/OmekaBadge.png" alt="omeka">
-                <a target="_blank" href="https://omekas.thelabsv.org">
+                <a target="_blank" href="https://omekas.thelabsv.org/admin">
                     <h2>Omeka S</h2>
                 </a>
             </div>
